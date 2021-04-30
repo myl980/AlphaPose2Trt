@@ -23,3 +23,8 @@ numpy 1.17
 validate_timeAndAP使用方式：
 1.测试原始文件不同batch_size的效果：  python validate_timeAndAP  --batch 10
 2.测试trt模型不同batch_size的效果： python validate_timeAndAp --engine_file_path trtfiles/fastpose_ret50_fp32_dynamic.trtengine --batch 10
+
+
+
+测试结果：
+使用coco2017 val数据集进行测试
