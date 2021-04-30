@@ -1,0 +1,2 @@
+# AlphaPose2Trt
+将AlphaPose 的FastPose-RestNet50模型转为onnx再转为tensorrt模型
