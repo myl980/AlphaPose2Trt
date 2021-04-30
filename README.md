@@ -28,4 +28,4 @@ validate_timeAndAP使用方式：
 
 测试结果：
 使用coco2017 val数据集进行测试
-![image](https://github.com/myl353/AlphaPose2Trt/blob/TRT2021/result.png)
+![result](https://github.com/myl353/AlphaPose2Trt/blob/TRT2021/result.png)
